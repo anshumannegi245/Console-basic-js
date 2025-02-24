@@ -1,0 +1,13 @@
+To use this JavaScript code:
+
+Save: Save the code as a .js file (e.g., script.js).
+HTML (Browser):
+Create an HTML file.
+Include the script using <script src="script.js"></script> within the <body> or <head> tags.
+Open the HTML file in a browser.
+Open the browser's developer console (usually F12) to see the output.
+Node.js (Server-side):
+Install Node.js.
+Open a terminal or command prompt.
+Navigate to the directory where you saved the .js file.
+Run the code using node script.js.
